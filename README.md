@@ -10,7 +10,7 @@ Este repositorio contiene la resolución de los 5 ejercicios prácticos propuest
 
 | Campo | Detalle |
 | :--- | :--- |
-| **Estudiante** | J. Mateo |
+| **Estudiante** | Mateo Salazar |
 | **Carrera** | Ingeniería de Software |
 | **Semestre** | Primer Semestre |
 | **Materia** | Algoritmos y Lógica de Programación |
