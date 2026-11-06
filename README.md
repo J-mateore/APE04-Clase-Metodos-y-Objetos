@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/JAVA-orange?style=for-the-badge&logo=java&logoColor=white) ![](https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=white)
 
-Este repositorio contiene la resolución de los 5 ejercicios prácticos propuestos en la **Guía APE 4** para la asignatura de **Algoritmos y Lógica de Programación**.
+Este repositorio contiene la resolución de los 18 ejercicios prácticos propuestos en la **Guía APE 4** para la asignatura de **Algoritmos y Lógica de Programación**.
 
 ---
 
