@@ -21,6 +21,12 @@ Este repositorio contiene la resolución de los 18 ejercicios prácticos propues
 
 ## Resolución de Ejercicios
 
+| EJERCICIOS | TEMAS | 
+| :--- | :--- | 
+| EJERCICIOS 1-5 | Introducción a programación orientada a objetos|
+| EJERCICIOS 6-13 | Métodos, Parámetros y Retornos |
+| EJERCICIOS 14-18 | Integración de clases, objetos y métodos |
+
 ---
 
 ### Ejercicio 1: Notas del curso
@@ -32,8 +38,7 @@ Crear la clase Estudiante con los atributos nombre, nota1, nota2, nota3 y promed
 Se creó la clase Estudiante calculando el promedio automáticamente desde el constructor. En la clase principal se instanciaron 5 estudiantes en un arreglo, evaluando su rendimiento mediante un bucle e identificando el estado académico de cada uno junto con el conteo final de aprobados.
 
 #### Evidencia de codificación:
-*<img width="421" height="383" alt="image" src="https://github.com/user-attachments/assets/5c4d2f7d-92e9-4002-8376-9c97f129d079" />
-*
+<img width="421" height="383" alt="image" src="https://github.com/user-attachments/assets/5c4d2f7d-92e9-4002-8376-9c97f129d079" />
 
 ---
 
@@ -46,8 +51,7 @@ Crear la clase Producto con nombre, precio y stock. Crear 4 productos e imprimir
 Se definió la clase Producto con un método para reducir el stock tras cada venta y calcular el valor total. En el método principal se imprimió el catálogo inicial, se simularon las ventas indicadas y se recorrió el arreglo para alertar los productos con bajo stock y calcular la suma global del inventario.
 
 #### Evidencia de codificación:
-*<img width="478" height="484" alt="image" src="https://github.com/user-attachments/assets/c5d9d328-8433-491e-814b-71ed48014ee7" />
-*
+<img width="478" height="484" alt="image" src="https://github.com/user-attachments/assets/c5d9d328-8433-491e-814b-71ed48014ee7" />
 
 ---
 
@@ -60,8 +64,7 @@ Crear la clase Mascota con nombre, especie, edad y peso. Crear 3 mascotas e impr
 Se implementó la clase Mascota filtrando mediante condiciones los casos que superan los 20 kg. Adicionalmente, se demostró el concepto de asignación de referencias en memoria igualando `m4 = m1`, evidenciando que al alterar la edad desde `m4`, la variable `m1` se modifica por apuntar al mismo objeto en el Heap.
 
 #### Evidencia de codificación:
-*<img width="453" height="294" alt="image" src="https://github.com/user-attachments/assets/3301764d-a9c6-41f3-8351-ec7f3e57512a" />
-*
+<img width="453" height="294" alt="image" src="https://github.com/user-attachments/assets/3301764d-a9c6-41f3-8351-ec7f3e57512a" />
 
 ---
 
@@ -74,8 +77,7 @@ Crear la clase Cuenta con titular y saldo. Crear 2 cuentas, una con 200 y otra c
 Se creó la clase Cuenta almacenando el saldo inicial de cada titular. Mediante un bucle `while`, se realizaron depósitos mensuales de $50 incrementando un contador de meses de manera independiente hasta alcanzar la meta de $500, imprimiendo el desglose mes a mes de los saldos.
 
 #### Evidencia de codificación:
-*<img width="465" height="603" alt="image" src="https://github.com/user-attachments/assets/ba15834d-baef-4e88-a0ad-05b7139a3a79" />
-*
+<img width="465" height="603" alt="image" src="https://github.com/user-attachments/assets/ba15834d-baef-4e88-a0ad-05b7139a3a79" />
 
 ---
 
@@ -88,8 +90,7 @@ Crear las clases Libro (titulo, autor, disponible) y Socio (nombre, librosPresta
 Se modeló la relación entre las clases Libro y Socio mediante un método de préstamo que actualiza el estado de disponibilidad e incrementa los préstamos del socio. Al final, se recorren las colecciones para imprimir el catálogo actualizado, los registros por socio y el total de libros disponibles.
 
 #### Evidencia de codificación:
-*<img width="445" height="440" alt="image" src="https://github.com/user-attachments/assets/06827e45-d554-423e-86b9-65a5df910b61" />
-*
+<img width="445" height="440" alt="image" src="https://github.com/user-attachments/assets/06827e45-d554-423e-86b9-65a5df910b61" />
 
 ---
 
@@ -107,7 +108,6 @@ Se identificó y diagnosticó el error de compilación por la ausencia de la sen
 
 #### Evidencia de codificación:
 <img width="1098" height="195" alt="image" src="https://github.com/user-attachments/assets/01319197-4511-4aae-aedb-4a466762f620" />
-*
 
 ---
 
@@ -121,7 +121,6 @@ Se diseñó el método implementando el tipo de retorno void debido a que su res
 
 #### Evidencia de codificación:
 <img width="1095" height="205" alt="image" src="https://github.com/user-attachments/assets/cc5d5b5e-919b-4235-9990-391a743863d7" />
-*
 
 ---
 
@@ -140,7 +139,6 @@ Se documentó la diferencia conceptual detallando que los parámetros (x, y) son
 
 #### Evidencia de codificación:
 <img width="1103" height="205" alt="image" src="https://github.com/user-attachments/assets/2a5fbb76-d753-496c-b3ee-f9fe92d60378" />
-*
 
 ---
 
@@ -157,7 +155,6 @@ Se explicó el comportamiento del paso por valor en Java para tipos de datos pri
 
 #### Evidencia de codificación:
 <img width="1097" height="241" alt="image" src="https://github.com/user-attachments/assets/76022d31-6535-43f3-9737-737cfcbbb171" />
-*
 
 ---
 
@@ -171,7 +168,6 @@ Se implementó un método dentro de la clase Main10 con tipo de retorno double, 
 
 #### Evidencia de codificación:
 <img width="1126" height="222" alt="image" src="https://github.com/user-attachments/assets/c22c1103-9832-4a49-bb33-122b641e3a13" />
-*
 
 ---
 
@@ -185,7 +181,6 @@ Se desarrolló un método con tipo de retorno booleano (boolean) en la clase Mai
 
 #### Evidencia de codificación:
 <img width="1106" height="257" alt="image" src="https://github.com/user-attachments/assets/83175d61-d2dd-48ec-9837-91ce8f1e8bf4" />
-*
 
 ---
 
@@ -207,7 +202,6 @@ Se completaron los espacios vacíos asignando el tipo de retorno double en la fi
 
 #### Evidencia de codificación:
 <img width="1111" height="250" alt="image" src="https://github.com/user-attachments/assets/872c828e-864a-41c8-b8c5-73eaff9bbd23" />
-*
 
 ---
 
@@ -224,4 +218,70 @@ Se programó el flujo de instanciación formal del objeto p mediante el operador
 
 #### Evidencia de codificación:
 <img width="1096" height="263" alt="image" src="https://github.com/user-attachments/assets/a98c4f45-9472-4e45-9c87-7862554fc1ad" />
-*
+
+---
+
+### Ejercicio 14: Libro y Autor
+
+#### Enunciado:
+Crea la clase Autor (nombre, nacionalidad) y la clase Libro (titulo, anio, autor). Libro debe tener un atributo de tipo Autor y un método mostrarInformacion() que imprima el título, el año y el nombre del autor. En main, crea 2 libros.
+
+#### Descripción de la solución:
+Se estructuraron dos clases independientes (Autor y Libro), incorporando una instancia de Autor como atributo dentro de Libro para cumplir con el principio de composición. Mediante el método mostrarInformacion() y el uso de la notación de punto, se accedió a los datos internos del autor para desplegarlos junto a los atributos propios del libro en la consola.
+
+#### Evidencia de codificación:
+<img width="1325" height="231" alt="image" src="https://github.com/user-attachments/assets/b92109b9-a2e6-4717-bca5-0d1220828142" />
+
+---
+
+### Ejercicio 15: Rectángulo
+
+#### Enunciado:
+Crea la clase Rectangulo (base, altura) con los siguientes métodos, usando el tipo de retorno correcto en cada firma: calcularArea(), calcularPerimetro(), esCuadrado(), obtenerDescripcion() que devuelve, por ejemplo, "Rectángulo de 4.0 x 6.0", y mostrar() que imprime todos los resultados.[cite: 6]
+
+#### Descripción de la solución:
+Se diseñó la clase Rectangulo con atributos de tipo double y un constructor parametrizado, implementando firmas con retornos específicos (double para cálculos, boolean para validación de lados, String para descripciones y void para impresiones)[cite: 6]. Se utilizó el método mostrar() para desplegar todos los resultados integrados en la consola.
+
+#### Evidencia de codificación:
+<img width="1326" height="356" alt="image" src="https://github.com/user-attachments/assets/ba55a95a-2ecc-419e-9394-ac16f80fca1a" />
+
+---
+
+### Ejercicio 16: Producto y Venta
+
+#### Enunciado:
+Crea la clase Producto (nombre, precio, stock) con reducirStock(int cantidad), que solo actúa si hay stock suficiente (si no, imprime "Stock insuficiente."), y mostrarProducto(). Crea la clase Venta (cantidad) con aplicar(Producto producto), que reduzca el stock y muestre el total a pagar, igual que Cuenta y Transaccion.[cite: 7]
+
+#### Descripción de la solución:
+Se interrelacionaron las clases Producto y Venta aplicando el concepto de objetos como parámetros[cite: 7]. La clase Producto valida mediante una condición la disponibilidad antes de actualizar su inventario, mientras que la clase Venta recibe dicha instancia en su método aplicar() para calcular el total a pagar y coordinar la reducción de stock[cite: 7].
+
+#### Evidencia de codificación:
+<img width="1323" height="367" alt="image" src="https://github.com/user-attachments/assets/8f86fdf3-d92a-4229-aabb-dcb0401ad374" />
+
+---
+
+### Ejercicio 17: Transferencias
+
+#### Enunciado:
+Usa la clase Cuenta del informe y agrega el método transferir(Cuenta destino, double monto), que retire el monto de la cuenta actual y lo deposite en la cuenta destino solo si hay fondos. En main, crea 2 cuentas, haz una transferencia válida y otra que falle.[cite: 8]
+
+#### Descripción de la solución:
+Se incorporó el método transferir(Cuenta destino, double monto) en la clase Cuenta utilizando un objeto como parámetro para permitir la interacción directa entre dos cuentas bancarias[cite: 8]. Se añadió una validación condicional estricta para asegurar que la cuenta emisora posea los fondos suficientes antes de efectuar el retiro y el depósito correspondiente.
+
+#### Evidencia de codificación:
+<img width="1326" height="448" alt="image" src="https://github.com/user-attachments/assets/af7a28b9-7b5b-46d3-845b-56e1d85c2a34" />
+
+---
+
+### Ejercicio 18: Biblioteca
+
+#### Enunciado:
+Crea tres clases que colaboren entre sí: Usuario, Libro y Prestamo. Prestamo tiene atributos de tipo Usuario y Libro, y su método registrar() intenta prestar el libro y muestra un mensaje según el resultado. En main, haz que dos usuarios intenten pedir el mismo libro.
+
+#### Descripción de la solución:
+Se estructuró un sistema de colaboración entre las clases Usuario, Libro y Prestamo. La clase Libro gestiona su disponibilidad mediante un método booleano, mientras que la clase Prestamo centraliza las referencias de ambas entidades en su método registrar() para coordinar y notificar el éxito o el fallo de la transacción cuando múltiples usuarios solicitan el mismo ejemplar.
+
+#### Evidencia de codificación:
+<img width="1337" height="435" alt="image" src="https://github.com/user-attachments/assets/874d171c-490e-45fe-90ef-40a358f5aa66" />
+
+---
